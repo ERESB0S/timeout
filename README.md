@@ -12,7 +12,7 @@ Kod güvenlik ve çalınmaları önlemek amacıyla şifrelenmiştir. Şifreli k�
 <img src="https://eresbos.please-end.me/5iUfSqfmf.png">
 
 # İletişim
-* [Discord Sunucum](https://discord.gg/2017)
+* [Discord Sunucum](https://discord.gg/ZS2TKFFadZ)
 * [Discord Profilim](https://discord.com/users/907246062459318323)
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
