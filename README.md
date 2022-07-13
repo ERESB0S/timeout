@@ -13,7 +13,7 @@ Kod güvenlik ve çalınmaları önlemek amacıyla şifrelenmiştir. Şifreli k�
 
 # İletişim
 * [Discord Sunucum](https://discord.gg/ZS2TKFFadZ)
-* [Discord Profilim](https://discord.com/users/907246062459318323)
+* [Discord Profilim](https://discord.com/users/350976460313329665)
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
 ### NOT: Kodda MIT lisansı bulunmaktadır. Bu kodların benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
